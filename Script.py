@@ -13,8 +13,8 @@ class script(object):
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://te.legra.ph/file/42e9a66c3df08a9c1987a.mp4>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
 
 <b>Channels:</b>
-- Main Channel<a href=https://t.me/Movies_X_Animes>Movies X Animes</a>
-- 𝙳𝚎𝚟 2<a href=https://t.me/MxA_Movies>Movie Channel</a>"""
+- Main Channel - <a href=https://t.me/Movies_X_Animes>Movies X Animes</a>
+- Movies - <a href=https://t.me/MxA_Movies>Movie Channel</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
